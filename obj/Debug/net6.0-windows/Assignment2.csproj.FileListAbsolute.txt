@@ -1,0 +1,308 @@
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form1.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form2.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form3.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form4.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form1.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form2.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form3.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form4.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form3.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form4.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v2\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v3\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+E:\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+E:\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+E:\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+E:\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+E:\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+E:\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v4\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v5\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.Receipt.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.Receipt.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v6\Assignment2_v6\Assignment2_v5\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.Receipt.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.MyAccount.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v7\Assignment2\obj\Debug\net6.0-windows\Assignment2.FAQ.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.AddCustomerMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.AddFruitMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminReport.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.FAQ.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.MyAccount.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.Receipt.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_vcombined\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AddCustomerMenu.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AddFruitMenu.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminReport.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.FAQ.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.MyAccount.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.Receipt.resources
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\Alvin\Desktop\UTS\31927 Application Development with .NET\Programs\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AddCustomerMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AddFruitMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminReport.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.FAQ.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.MyAccount.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.Receipt.resources
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\choch\OneDrive\바탕 화면\Assignment2_v10\Assignment2_v9\Assignment2_v9\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
+E:\Assignment2\bin\Debug\net6.0-windows\Assignment2.exe
+E:\Assignment2\bin\Debug\net6.0-windows\Assignment2.deps.json
+E:\Assignment2\bin\Debug\net6.0-windows\Assignment2.runtimeconfig.json
+E:\Assignment2\bin\Debug\net6.0-windows\Assignment2.dll
+E:\Assignment2\bin\Debug\net6.0-windows\Assignment2.pdb
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.AddCustomerMenu.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.AddFruitMenu.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminMenu.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.AdminReport.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.CartWindow.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.CustomerMenu.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.FAQ.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.LogIn.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.MyAccount.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.Properties.Resources.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.Receipt.resources
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.dll
+E:\Assignment2\obj\Debug\net6.0-windows\refint\Assignment2.dll
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.pdb
+E:\Assignment2\obj\Debug\net6.0-windows\Assignment2.genruntimeconfig.cache
+E:\Assignment2\obj\Debug\net6.0-windows\ref\Assignment2.dll
